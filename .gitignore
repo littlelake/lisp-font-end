@@ -1,0 +1,33 @@
+# Logs 日志 #
+logs
+*.log
+
+# Mac #
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node #
+/node_modules
+/bower_components
+npm-debug.log
+/npm-debug.log.*
+
+# 编译 #
+/dist
+/build
+
+# 编辑器 #
+.idea
+.vscode
+*.swp
+
+# SVN #
+.svn
+
+# AOT #
+/aot
+
+# Coverage 测试覆盖率 #
+/coverage
